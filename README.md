@@ -67,7 +67,7 @@ To successfully run with CDN, you'll need some libraries.
 
 ## Documentation
 
-- Official Website: [Shery.js]([https://sheryjs.com](https://www.npmjs.com/package/sheryjs))
+- Official Website: [npn / shery js]([https://sheryjs.com](https://www.npmjs.com/package/sheryjs))
 
 ---
 
