@@ -1,6 +1,6 @@
 # Shery.js - A Powerful JavaScript Library
 
-Shery.js is a l JavaScript library i stumbled upon through youtube designed by the sheryians youtube channel , they made this to enhance web development with smooth animations, interactions, and other advanced features.
+Shery.js is a JavaScript library i stumbled upon through youtube designed by the sheryians youtube channel , they made this to enhance web development with smooth animations, interactions, and other advanced features.
 
 ## Features
 - it felt easy to understand
