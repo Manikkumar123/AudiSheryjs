@@ -27,16 +27,24 @@ Then, import it in your JavaScript file:
 ---
 
 ## Screenshots
-(./images/screenshot-1.png)
-![Shery.js Animation Example](./images/screenshot-4.png)
-![this is a debugger that comes with the shery js itself you can customize the effect according to your need from this debug panel and then you can copy the settings to the clipboard..](./images/screenshot-5.png)
-![after you get your desired effect write this](./images/screenshot-2.png)
-![then copy the complete text in the cofig area to apply the effect to the webpage.](./images/screenshot-3.png)
+!(./images/screenshot-2.png)
+!(./images/screenshot-3.png)
 ---
 
 
-*[you have to write this code to start the effect and debug it]
+* [you have to write this code to start the effect and debug it]
 <img src="images/screenshot-1.png" alt="sc" width="500" height="200">
+
+* [Shery.js Animation Example]
+<img src="images/screenshot-4.png" alt="sc" width="500" height="200">
+
+* [this is a debugger that comes with the shery js itself you can customize the effect according to your need from this debug panel and then you can copy the settings to the clipboard..]<img src="images/screenshot-5.png" alt="sc" width="500" height="200">
+
+* [after you get your desired effect write this]
+<img src="images/screenshot-2.png" alt="sc" width="500" height="200">
+
+* [then copy the complete text in the cofig area to apply the effect to the webpage.]
+<img src="images/screenshot-3.png" alt="sc" width="500" height="200">
 
 ## Documentation
 
