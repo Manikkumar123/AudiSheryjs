@@ -35,8 +35,7 @@ Then, import it in your JavaScript file:
 ---
 
 
-<img src="images/screenshot-1.png" alt="sc" width="300">
-![you have to write this code to start the effect and debug it]
+<img src="images/screenshot-1.png" alt="sc" width="500" height="300">![you have to write this code to start the effect and debug it]
 
 ## Documentation
 
