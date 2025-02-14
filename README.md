@@ -23,8 +23,21 @@ Then, import it in your JavaScript file:
 ```js just above body tag
 <script  type="text/javascript"  src="https://unpkg.com/sheryjs/dist/Shery.js"></script> 
 ```
+### 2. Required Libraries
+To successfully run with CDN, you'll need some libraries.
+``` copy all these libraries to your html just where you attached the script js file, btw copying all these files is not needed for the above mentioned effect but still you can do it for now.
+<!--  Gsap is needed for Basic Effects -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
 
+<!-- Scroll Trigger is needed for Scroll Effects -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
 
+<!-- Three.js is needed for 3d Effects -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/0.155.0/three.min.js"></script>
+
+<!-- ControlKit is needed for Debug Panel -->
+<script src="https://cdn.jsdelivr.net/gh/automat/controlkit.js@master/bin/controlKit.min.js"></script>
+```
 
 ---
 
