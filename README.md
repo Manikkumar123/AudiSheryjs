@@ -24,6 +24,8 @@ Then, import it in your JavaScript file:
 <script  type="text/javascript"  src="https://unpkg.com/sheryjs/dist/Shery.js"></script> 
 ```
 
+
+
 ---
 
 ## Screenshots
@@ -32,13 +34,13 @@ Then, import it in your JavaScript file:
   
   <img src="images/screenshot-1.png" alt="sc" style="width:500px; height:auto; object-fit:cover;">
 
-* [Shery.js Animation Example]
+* [this is the interface that you will see after opening the webpage]
   
-  <img src="images/screenshot-4.png" alt="sc" style="width:500px; height:auto; object-fit:cover;">
+  <img src="images/screenshot-5.png" alt="sc" style="width:500px; height:auto; object-fit:cover;">
 
 * [This is a debugger that comes with Shery.js itself. You can customize the effect according to your need from this debug panel and then you can copy the settings to the clipboard.]
   
-  <img src="images/screenshot-5.png" alt="sc" style="width:500px; height:auto; object-fit:cover;">
+  <img src="images/screenshot-4.png" alt="sc" style="width:500px; height:auto; object-fit:cover;">
 
 * [After you get your desired effect, write this]
   
