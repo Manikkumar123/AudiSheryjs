@@ -25,7 +25,8 @@ Then, import it in your JavaScript file:
 ```
 ### 2. Required Libraries
 To successfully run with CDN, you'll need some libraries.
-``` copy all these libraries to your html just where you attached the script js file, btw copying all these files is not needed for the above mentioned effect but still you can do it for now.
+ copy all these libraries to your html just where you attached the script js file, btw copying all these files is not needed for the above mentioned effect but still you can do it for now.
+ ```
 <!--  Gsap is needed for Basic Effects -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
 
