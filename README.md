@@ -32,19 +32,21 @@ Then, import it in your JavaScript file:
 ---
 
 
-* [you have to write this code to start the effect and debug it]
-<img src="images/screenshot-1.png" alt="sc" style ="width="500" height="200" object-fit:cover;">
+* [You have to write this code to start the effect and debug it]  
+  <img src="images/screenshot-1.png" alt="sc" style="width:500px; height:200px; object-fit:cover;">
 
-* [Shery.js Animation Example]
-<img src="images/screenshot-4.png" alt="sc"  style ="width="500" height="200" object-fit:cover;">
+* [Shery.js Animation Example]  
+  <img src="images/screenshot-4.png" alt="sc" style="width:500px; height:200px; object-fit:cover;">
 
-* [this is a debugger that comes with the shery js itself you can customize the effect according to your need from this debug panel and then you can copy the settings to the clipboard..]<img src="images/screenshot-5.png" alt="sc" style ="width="500" height="200" object-fit:cover;">
+* [This is a debugger that comes with Shery.js itself. You can customize the effect according to your need from this debug panel and then you can copy the settings to the clipboard.]  
+  <img src="images/screenshot-5.png" alt="sc" style="width:500px; height:200px; object-fit:cover;">
 
-* [after you get your desired effect write this]
-<img src="images/screenshot-2.png" alt="sc"  style ="width="500" height="200" object-fit:cover;">
+* [After you get your desired effect, write this]  
+  <img src="images/screenshot-2.png" alt="sc" style="width:500px; height:200px; object-fit:cover;">
 
-* [then paste the complete text in the cofig area to apply the effect to the webpage.]
-<img src="images/screenshot-3.png" alt="sc" style ="width="500" height="200" object-fit:cover;">
+* [Then paste the complete text in the config area to apply the effect to the webpage.]  
+  <img src="images/screenshot-3.png" alt="sc" style="width:500px; height:200px; object-fit:cover;">
+
 
 ## Documentation
 
